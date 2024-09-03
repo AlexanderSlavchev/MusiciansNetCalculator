@@ -1,7 +1,7 @@
 # Musician Income Calculator
 
 An Android application that calculates the required gross income for musicians after accounting for all taxes and social security contributions. 
-moveThe app allows musicians to input their desired net income and automatically calculates the necessary gross income to achieve that target.
+The app allows musicians to input their desired net income and automatically calculates the necessary gross income to achieve that target.
 
 ## Features
 
